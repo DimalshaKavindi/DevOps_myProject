@@ -1,0 +1,27 @@
+.logo{
+    margin: 20px 0px 0px 50px;
+}
+
+p {
+    margin: 0;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.footer{
+    display: grid;
+    grid-template-rows: 2fr 1fr;
+    background-color: #5E503F;
+    
+}
+
+.footerStyle {
+    background-color: #5E503F;
+    padding: 20px;
+    color: white;
+    align-items: left;
+    height: 150px;
+    display:grid;
+    grid-template-columns: 4fr 1fr;
+    margin-left: 75px;
+};
